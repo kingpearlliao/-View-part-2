@@ -12,6 +12,7 @@
 		472F8E5620890D4B00EF99C9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 472F8E5420890D4B00EF99C9 /* Main.storyboard */; };
 		472F8E5820890D4B00EF99C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 472F8E5720890D4B00EF99C9 /* Assets.xcassets */; };
 		472F8E5B20890D4B00EF99C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 472F8E5920890D4B00EF99C9 /* LaunchScreen.storyboard */; };
+		472F8E622089203E00EF99C9 /* 用View拼湊漂亮的圖案part 2.app in Resources */ = {isa = PBXBuildFile; fileRef = 472F8E4D20890D4B00EF99C9 /* 用View拼湊漂亮的圖案part 2.app */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -124,6 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				472F8E5B20890D4B00EF99C9 /* LaunchScreen.storyboard in Resources */,
+				472F8E622089203E00EF99C9 /* 用View拼湊漂亮的圖案part 2.app in Resources */,
 				472F8E5820890D4B00EF99C9 /* Assets.xcassets in Resources */,
 				472F8E5620890D4B00EF99C9 /* Main.storyboard in Resources */,
 			);
